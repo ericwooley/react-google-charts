@@ -1,7 +1,7 @@
 {
-  "name": "react-google-charts",
+  "name": "react-google-charts-temp",
   "version": "0.1.6",
-  "description": "React Google Charts Wrapper",
+  "description": "React Google Charts Wrapper with modifications that have not yet been pulled in by the main repository",
   "scripts": {
     "test": "karma start"
   },
@@ -44,14 +44,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rakannimer/react-google-charts"
+    "url": "https://github.com/ericwooley/react-google-charts"
   },
   "keywords": [
     "react",
     "google",
     "charts"
   ],
-  "author": "Rakan Nimer",
+  "author": "Rakan Nimer, Eric Wooley",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rakannimer/react-google-charts/issues"
